@@ -4,7 +4,7 @@
 
 $dns='mysql:host=localhost;dbname=testpts';
 $user='root';
-$Password='@lauris123';
+$Password='@Raphael123';
 try{
    $pdo=new PDO($dns,$user,$Password,[
      PDO::ATTR_DEFAULT_FETCH_MODE=>PDO::FETCH_ASSOC
